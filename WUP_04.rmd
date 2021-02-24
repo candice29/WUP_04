@@ -67,6 +67,13 @@ summary.aov(model1)
 
 The probability that all the groups have the same mean is very low: only 0.0236% (taken from the p-value, which is incredibly low), so the null hypothesis is rejected.
 
+```{r}
+par(mar = c(3, 16, 2, 2))
+plot(TukeyHSD(model1, conf.level = 0.99),las=2)
+```
+
+With very high confidence (99%), we can say that the most meaningful differences found were between Graduate vs High School and Graduate vs LT High School.
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
