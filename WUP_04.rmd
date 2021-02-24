@@ -26,6 +26,8 @@ $H_a$ There is a significant difference in average score on the WORDSUM test bet
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+Each person whose data was collected for the dataset "scores" is a "case". We will compare DEGREE, a factor variable describing the highest scholastic degree obtained by a case, with WORDSUM describing the case's score on the WRODSUM test. A boxplot will show the distribution of WORDSUM scores in each category, or factor. A numerical summary will tell us the average, or mean, score as explained by each factor. If differences seem significant enough, Tukey will be used to compare the factors in pairs.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
