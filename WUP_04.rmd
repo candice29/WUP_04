@@ -77,3 +77,5 @@ With very high confidence (99%), we can say that the most meaningful differences
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The alternate hypothesis was that, on average, there is a significant difference between WORDSUM scores when comparing one factor(highest DEGREE achieved) with another; this hypothesis was confirmed since those with Graduate degrees scored higher than those in LT or regular High School.
